@@ -1,0 +1,11 @@
+```bash
+yarn
+# Final, to run the project
+#iOS
+npx react-native run-ios
+#Android
+npx react-native run-android
+expo run:android
+#Web
+yarn web
+```
